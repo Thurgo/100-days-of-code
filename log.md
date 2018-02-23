@@ -1,14 +1,14 @@
 **About Me**  
 
-#### I've been learning to code for about a month now, I've not really chosen a specific path until now. I have basic understanding of ruby/rails, java, javascript, html, and css.
+#### I've been learning to code for about a month now, I've not really chosen a specific path until now. I have basic understanding of ruby/rails, java, javascript, html, and css. I know git/github pretty well, but im horrible at markdown(as you can see).
 
 #### Im learning to code because I enjoy it, and freelancing is my current goal. I aim to be able to freelance websites, atleast the design portion, by the end of this month.
 
 **The technologies I aim to learn by the end of the 100 days are:**  
 
-+ HTML & CSS  
++ HTML & CSS, I have made 2 quality websites. They were code alongs and not my own IP. I want to learn how to do it on my own.  
 
-+ Javascript  
++ Javascript, This is where I want to spend the bulk of my learning.
 
 + Node.js or PHP (leaning towards node)  
 
