@@ -4,6 +4,8 @@
 
 #### Im learning to code because I enjoy it, and freelancing is my current goal. I aim to be able to freelance websites, atleast the design portion, by the end of this month.
 
+#### My goal daily will be 2-3 hours of focused learning, and will link code that I'm proud of, or helped me after each days entry. I will also include resources that I used and found valuable for future use, or whoever reads this.
+
 **The technologies I aim to learn by the end of the 100 days are:**  
 
 + HTML & CSS, I have made 2 quality websites. They were code alongs and not my own IP. I want to learn how to do it on my own.  
