@@ -5,13 +5,13 @@ Im learning to code because I enjoy it, and freelancing is my current goal. I ai
 
 **The technologies I aim to learn by the end of the 100 days are:**  
 
-#HTML & CSS  
++ HTML & CSS  
 
-#Javascript  
++ Javascript  
 
-#Node.js or PHP (leaning towards node)  
++ Node.js or PHP (leaning towards node)  
 
-#A javascript library, either vue, or react  
++ A javascript library, either vue, or react  
 
 *================================================*
 
