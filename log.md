@@ -1,30 +1,20 @@
-# 100 Days Of Code - Log
+#About Me#
+I've been learning to code for about a month now, I've not really chosen a specific path until now. I have basic understanding of ruby/rails, java, javascript, html, and css.
+Im learning to code because I enjoy it, and freelancing is my current goal. I aim to be able to freelance websites, atleast the design portion, by the end of this month.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+###The technologies I aim to learn by the end of the 100 days are:
+-HTML & CSS
+-Javascript
+-Node.js or PHP (leaning towards node)
+-A javascript library, either vue, or react
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+================================================
 
 
-### Day 1: June 27, Monday
+### Day 1: February 22, 2018
+**Today's Progress**: Today I decided to recap on the basics of javascript before diving into it headfirst and using it on applications. I reviewed variables, functions, and loops. Spent a total of 5 hours making sure that I understand everything adequately. I then decided to take another look at FreeCodeCamp, which I started, and stopped at the tribute page because I had no clue how to even start it. I worked on the tribute page and it took me just over an hour to fully complete it. I didn't make it look amazing, because it's late, and I want to spend the bulk of my time working on the portfolio page which in my opinion is a lot more fun.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I struggle with CSS still, however my HTML skills have gotten a lot better. This may be because I have switched to bootstrap, and don't know much about it. I'm a lot better at recreating work from a picture than I was 20 days ago.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to Tribute:** https://codepen.io/anon/pen/wyxJwm 
+###Picture if taken down### https://gyazo.com/c0044f4eff3ae57d4e7abb815f906a50
