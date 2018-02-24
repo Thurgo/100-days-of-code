@@ -26,3 +26,7 @@
 
 **Link to Tribute:** https://codepen.io/anon/pen/wyxJwm 
 **Picture if taken down** https://gyazo.com/c0044f4eff3ae57d4e7abb815f906a50
+
+### Day 2: February 23, 2018
+**Today's Progress**: Today I spent a lot of time going over html, and more intermediate css concepts and syntax. I designed the nav bar for my personal portfolio, and while it took over 1 hour, it looks nice. I'm feeling like some of the simpler things are clicking which is nice. I spent around 4 hours following Colt Steele's course on udemy. It's teaching my a lot more because all of the concepts he shows you he makes very simple. I reccomend this course to anyone that doesn't know where to start with web development.
+**https://www.udemy.com/the-web-developer-bootcamp **
