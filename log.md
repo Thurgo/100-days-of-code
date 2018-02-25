@@ -12,9 +12,9 @@
 
 + Javascript, This is where I want to spend the bulk of my learning.
 
-+ Node.js or PHP (leaning towards node)  
++ Learning React is my main goal in this challenge. Hopefully if I achieve this goal that will mean that I learn javascript well.
 
-+ A javascript library, either vue, or react  
++ Node.js - This will be the last thing I go in to. I will learn the basics early on, and not much else. I don't think this is an important library to learn early on due to it not really effecting the design portion, which I want to dedicate my time to. 
 
 *================================================*
 
