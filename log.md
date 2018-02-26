@@ -31,17 +31,19 @@
 ### Day 2: February 23, 2018
 **Time Spent: 5 hours**
 **Today's Progress**: Today I spent a lot of time going over html, and more intermediate css concepts and syntax. I designed the nav bar for my personal portfolio, and while it took over 1 hour, it looks nice. I'm feeling like some of the simpler things are clicking which is nice. I spent around 4 hours following Colt Steele's course on udemy. It's teaching my a lot more because all of the concepts he shows you he makes very simple. I reccomend this course to anyone that doesn't know where to start with web development.
-** https://www.udemy.com/the-web-developer-bootcamp 
+
+**Link https://www.udemy.com/the-web-developer-bootcamp 
 
 
 ### Day 3: February 24, 2018
 **Time Spent: 2 hours**
 **Today's Progress**: I didn't code much today, 2 hours total. I spent more time on the udemy course. I created a tic tac toe board, and a basic image gallery that I dont fully understand. I intend to go back tommorow and rewatch it. Overall today was slow, but I started to keep notes with a pencil in a notepad in an attempt to retain the information better.
-** https://www.udemy.com/the-web-developer-bootcamp 
+
+**Link https://www.udemy.com/the-web-developer-bootcamp 
 
 
 ### Day 4: February 25, 2018
 **Time Spent: 4.5 hours**
 **Today's Progress**: Taking notes has definetly helped me to retain information and will keep the practice going forward. Today I learned a lot more bootstrap. I learned how to make a nav bar, that resizes based on screen size, and when it resizes, a button appears allowing you to view the actions on the bar. I also learned about jumbotrons, and columns. I incorportated everything I learned today into my personal portfolio project for freecodecamp. A picture is attached below. Tommorow I will finish bootstrap section, and move on to javascript while I'm on campus.
-** https://www.udemy.com/the-web-developer-bootcamp 
-** https://cdn.discordapp.com/attachments/417508716129288195/417562307606872074/unknown.png
+**Course https://www.udemy.com/the-web-developer-bootcamp 
+**Picture of Portfolio. https://cdn.discordapp.com/attachments/417508716129288195/417562307606872074/unknown.png
