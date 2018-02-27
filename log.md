@@ -47,3 +47,9 @@
 **Today's Progress**: Taking notes has definetly helped me to retain information and will keep the practice going forward. Today I learned a lot more bootstrap. I learned how to make a nav bar, that resizes based on screen size, and when it resizes, a button appears allowing you to view the actions on the bar. I also learned about jumbotrons, and columns. I incorportated everything I learned today into my personal portfolio project for freecodecamp. A picture is attached below. Tommorow I will finish bootstrap section, and move on to javascript while I'm on campus.
 **Course https://www.udemy.com/the-web-developer-bootcamp 
 **Picture of Portfolio. https://cdn.discordapp.com/attachments/417508716129288195/417562307606872074/unknown.png
+
+### Day 5: February 26, 2018
+**Time Spent: 1 hour**
+**Today's Progress**: Another day of light coding. Had class twice today so I took it easy. Tommorow I don't have any responsibilities so I'm  going to aim for 8 hours. Today I learned to code a landing page with a nav bar and some buttons. I learned to never make a nav bar ever again and to just copy paste mine.
+
+**Link https://www.udemy.com/the-web-developer-bootcamp 
