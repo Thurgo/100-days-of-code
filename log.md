@@ -53,3 +53,9 @@
 **Today's Progress**: Another day of light coding. Had class twice today so I took it easy. Tommorow I don't have any responsibilities so I'm  going to aim for 8 hours. Today I learned to code a landing page with a nav bar and some buttons. I learned to never make a nav bar ever again and to just copy paste mine.
 
 **Link https://www.udemy.com/the-web-developer-bootcamp 
+
+### Day 6: February 27, 2018
+**Time Spent: 7 hours**
+**Today's Progress**: Today I coded for 7 hours. While I didn't reach my goal of 8 hours, I think 7 is respectable. I spent ALL of that time learning JavaScript. I learned the ins and outs of the basics again from the udemy course, and pushed a little bit outside into functions and higher order functions. Taking notes has seriously helped me in terms of retaining information, and I review my notes from the day before, before I go to bed, and when I wake up. Tommorow I aim for 4-5 hours, and to finish up the javascript specific section of the course. I didn't work on my portfolio at all as there was nothing I learned today that I can transfer to it in any meaningful way.
+
+**Link https://www.udemy.com/the-web-developer-bootcamp 
