@@ -57,5 +57,9 @@
 ### Day 6: February 27, 2018
 **Time Spent: 7 hours**
 **Today's Progress**: Today I coded for 7 hours. While I didn't reach my goal of 8 hours, I think 7 is respectable. I spent ALL of that time learning JavaScript. I learned the ins and outs of the basics again from the udemy course, and pushed a little bit outside into functions and higher order functions. Taking notes has seriously helped me in terms of retaining information, and I review my notes from the day before, before I go to bed, and when I wake up. Tommorow I aim for 4-5 hours, and to finish up the javascript specific section of the course. I didn't work on my portfolio at all as there was nothing I learned today that I can transfer to it in any meaningful way.
+**Link https://www.udemy.com/the-web-developer-bootcamp 
 
+### Day 7: February 28, 2018
+**Time Spent: 1 hours**
+**Today's Progress**: Today was a really shitty day. Had class all day, got home at 3, did econ homework for 2 hours, back to school, and got back at 8:30. Watched tv to wind down then I learned about javascript arrays/functions for an hour and honestly I learned a lot. I didn't know about array.slice(); and shift/unshift. Overall it was a productive hour despite being stoned, writing down notes I retained all of what I learned.
 **Link https://www.udemy.com/the-web-developer-bootcamp 
