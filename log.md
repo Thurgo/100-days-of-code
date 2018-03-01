@@ -62,4 +62,5 @@
 ### Day 7: February 28, 2018
 **Time Spent: 1 hours**
 **Today's Progress**: Today was a really shitty day. Had class all day, got home at 3, did econ homework for 2 hours, back to school, and got back at 8:30. Watched tv to wind down then I learned about javascript arrays/functions for an hour and honestly I learned a lot. I didn't know about array.slice(); and shift/unshift. Overall it was a productive hour despite being stoned, writing down notes I retained all of what I learned.
-**Link https://www.udemy.com/the-web-developer-bootcamp 
+
+** Link https://www.udemy.com/the-web-developer-bootcamp 
