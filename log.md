@@ -68,6 +68,7 @@
 ### Day 8: March 1, 2018
 **Time Spent: 5 hours 30 minutes**
 **Today's Progress**: Finished two sections of the udemy course. Javascript Arrays and Objects. I have a pretty decent understanding on them and what you can do with them. I know how to access nested arrays in an object, and vice versa. The only reason I'm stopping at the moment is because my brain hurts. I feel like I learned a lot today and pushing further will be for nothing. I learned about the this keyword, it references the object that it is contained in. Tommorow I will be going into the dom manipulation portion of the course which I am really excited for because I can put my JavaScript Knowlege to use! Overall I think that my understanding of JavaScript is pretty solid. It is my best language by far. Although I have no idea how to do dom manipulation, I understand all of the basic concepts of the language and I'm looking forward to build off of it.
+
 ***Addition***: Did another hour, learned about the DOM. I also learned how to select elements from the html by using things like document.querySelector("p"); and document.getElementsByClassName("class");. Most importantly I learned how to use them and what they specifically do, like querySelector only takes the first matching result, but you can override this by using document.querySelectorAll("p").
 
 ** Link https://www.udemy.com/the-web-developer-bootcamp 
