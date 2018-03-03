@@ -72,3 +72,7 @@
 ***Addition***: Did another hour, learned about the DOM. I also learned how to select elements from the html by using things like document.querySelector("p"); and document.getElementsByClassName("class");. Most importantly I learned how to use them and what they specifically do, like querySelector only takes the first matching result, but you can override this by using document.querySelectorAll("p").
 
 ** Link https://www.udemy.com/the-web-developer-bootcamp 
+
+### Day 9: March 2, 2018
+**Time Spent: 4 hours**
+**Today's Progress**: Finished Two sections today, also went to the doctor's and the movies so I'm satisfied with the progress. I learned way more about selecting elements, and different things you can do with them. I learned how to modify the html using javascript to reflect changes in a "score" dynamically.
