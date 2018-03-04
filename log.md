@@ -2,7 +2,7 @@
 
 #### I've been learning to code for about a month now, I've not really chosen a specific path until now. I have basic understanding of ruby/rails, java, javascript, html, and css. I know git/github pretty well, but im horrible at markdown(as you can see).
 
-#### Im learning to code because I enjoy it, and freelancing is my current goal. I aim to be able to freelance websites, atleast the design portion, by the end of this march.
+#### Im learning to code because I enjoy it, and freelancing is my current goal. I aim to be able to freelance websites, atleast the design portion, by the end of this april.
 
 #### My goal daily will be 2-3 hours of focused learning, and will link code that I'm proud of, or helped me after each days entry. I will also include resources that I used and found valuable for future use, or whoever reads this.
 
