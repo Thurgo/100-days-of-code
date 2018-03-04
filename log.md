@@ -80,3 +80,5 @@
 ### Day 10: March 3, 2018
 **Time Spent: 4 hours**
 **Today's Progress**: Worked on the color game section for 4 hours and finished the section. Seeing what I've practiced go into action was really cool. I think I'm going to stop following the course for today, and instead work on making one of my own projects. This should help me learn to think how to solve problems instead of copying from the guide.
+
+**Addition**  Worked another hour and a half. Got aquainted with jQuery. At first I was skeptical of using it, but after toying around with it for a little bit, I understand why its popular. Avoid for loops is a massive advantage in terms of time saved, but I also worry I might forget normal JS in the long run and that would be upsetting. Overall I still want to learn it but I am still skeptical.
