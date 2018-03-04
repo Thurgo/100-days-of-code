@@ -76,3 +76,7 @@
 ### Day 9: March 2, 2018
 **Time Spent: 4 hours**
 **Today's Progress**: Finished Two sections today, also went to the doctor's and the movies so I'm satisfied with the progress. I learned way more about selecting elements, and different things you can do with them. I learned how to modify the html using javascript to reflect changes in a "score" dynamically.
+
+### Day 10: March 3, 2018
+**Time Spent: 4 hours**
+**Today's Progress**: Worked on the color game section for 4 hours and finished the section. Seeing what I've practiced go into action was really cool. I think I'm going to stop following the course for today, and instead work on making one of my own projects. This should help me learn to think how to solve problems instead of copying from the guide.
