@@ -82,3 +82,8 @@
 **Today's Progress**: Worked on the color game section for 4 hours and finished the section. Seeing what I've practiced go into action was really cool. I think I'm going to stop following the course for today, and instead work on making one of my own projects. This should help me learn to think how to solve problems instead of copying from the guide.
 
 **Addition**  Worked another hour and a half. Got aquainted with jQuery. At first I was skeptical of using it, but after toying around with it for a little bit, I understand why its popular. Avoid for loops is a massive advantage in terms of time saved, but I also worry I might forget normal JS in the long run and that would be upsetting. Overall I still want to learn it but I am still skeptical.
+
+
+### Day 11: March 4, 2018
+**Time Spent: 1 hour 30 minutes**
+**Today's Progress**: Finished one section, the advanced jQuery part of the guide. My internet is being really poor at the moment so I'm going to call it for today. I think that on sundays I will only commit an hour of my time, otherwise I'm going to get burnt out. I worked on my personal project for a bit that ended up being a blackjack game. I got the barebones working in JS to play and reset and give a won condition. I didn't want to set up the UI on account of how much I despise html/css. I want to be proficient in Javascript, React, Node, and PHP. I feel as if I enjoyed backend a lot more. I will continue with this course because it is still valuable to learn these skills in the long run.
