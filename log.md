@@ -4,7 +4,7 @@
 
 #### Im learning to code because I enjoy it, and freelancing is my current goal. I aim to be able to freelance websites, atleast the design portion, by the end of this april.
 
-#### My goal daily will be 2-3 hours of focused learning, and will link code that I'm proud of, or helped me after each days entry. I will also include resources that I used and found valuable for future use, or whoever reads this.
+#### My goal daily will be 2-4 hours of focused learning, and will link code that I'm proud of, or helped me after each days entry. I will also include resources that I used and found valuable for future use, or whoever reads this.
 
 **The technologies I aim to learn by the end of the 100 days are:**  
 
@@ -12,7 +12,7 @@
 
 + Javascript, This is where I want to spend the bulk of my learning.
 
-+ Learning React is my main goal in this challenge. Hopefully if I achieve this goal that will mean that I learn javascript well.
++ Learning React is my main goal in this challenge. Hopefully if I achieve this goal that will mean that I learned javascript well.
 
 + Node.js - This will be the last thing I go in to. I will learn the basics early on, and not much else. I don't think this is an important library to learn early on due to it not really effecting the design portion, which I want to dedicate my time to. 
 
