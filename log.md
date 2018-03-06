@@ -17,6 +17,7 @@
 + Node.js - This will be the last thing I go in to. I will learn the basics early on, and not much else. I don't think this is an important library to learn early on due to it not really effecting the design portion, which I want to dedicate my time to. 
 
 **Goal for Freelancing**
+
 HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js(advanced)/Express > PHP > Wordpress
 
 *================================================*
