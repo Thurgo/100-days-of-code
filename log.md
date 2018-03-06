@@ -18,7 +18,7 @@
 
 **Goal for Freelancing**
 
-HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js(advanced)/Express > PHP > Wordpress
+HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js(advanced)/Express > React > PHP > Wordpress
 
 *================================================*
 
