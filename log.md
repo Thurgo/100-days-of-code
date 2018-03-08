@@ -109,3 +109,13 @@ HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js
 **Today's Progress**: Started the todoList project on the udemy course. While going through I'm trying to do what he says hes going to do, before he does it. I am also trying to refactor my code to get it to be the most readable it can. I am also commenting every line so I can fully understand what I'm doing and not just copying what he is doing without thinking. 
 
 **Thoughts-** I really enjoy javascript, typing it is fun, and I really understand what I'm doing enough to the point where I know exactly what to google to solve my issues and implement them. While I really enjoy javascript I do not like HTML and CSS. I am at an intermediate level in them but still have problems sometimes aligning things and its just frustrating because the problems cannot be solved by googling most of the time. I enjoyed backend while I was doing it and currently cannot wait to get back to it. I want to learn Node, then React. After this I plan to learn PHP.
+
+### Day 13: March 6, 2018
+**Time Spent: 4 hours**
+
+**Today's Progress**: Finished the ToDo project, overall it was really easy and I'm sure I couldve done it myself without help. It did teach me the .append method so that was nice. My app wouldnt LOOK as nice because im bad at css. I also did the next section backend basics where I got a recap on what I already knew, but I took notes.
+
+### Day 14: March 7, 2018
+**Time Spent: 2 hours**
+
+**Today's Progress**: I reviewed the command line, didn't learn anything new but got more comfortable. After this I finished the nodeJS intro. Learned how to execute apps, learned how to import a library and go through the documentation to learn how to do things with it. Overall I got a lot done for the two hours spent.
