@@ -119,3 +119,8 @@ HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js
 **Time Spent: 2 hours**
 
 **Today's Progress**: I reviewed the command line, didn't learn anything new but got more comfortable. After this I finished the nodeJS intro. Learned how to execute apps, learned how to import a library and go through the documentation to learn how to do things with it. Overall I got a lot done for the two hours spent.
+
+### Day 14: March 8, 2018
+**Time Spent: 3 hours 30 minutes**
+
+**Today's Progress**: Today I learned the basics of express, and what it allows me to do with node. I learned about the package.json file, and how the --save appendment to npm install affects it. I went over route params and how I can create dynamic pages very simply. I then finally learned how to use a route param as a variable to display on a .ejs file which is a HTML file that can display javascript by using <%= %>.
