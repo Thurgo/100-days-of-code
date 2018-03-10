@@ -124,3 +124,9 @@ HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js
 **Time Spent: 3 hours 30 minutes**
 
 **Today's Progress**: Today I learned the basics of express, and what it allows me to do with node. I learned about the package.json file, and how the --save appendment to npm install affects it. I went over route params and how I can create dynamic pages very simply. I then finally learned how to use a route param as a variable to display on a .ejs file which is a HTML file that can display javascript by using <%= %>.
+
+### Day 14: March 8, 2018
+**Time Spent: 4 hours**
+
+**Today's Progress**: 
+Finished up the intermediate express section of the class, learned how to use variables created by users using an input. Was hard to grasp at first but after doing it a couple times I have a better understanding. This is a pretty powerful tool that I want to play around with more. I also went ahead and did the next section on APIs. They are REALLY cool. I put together an app that takes user input of a search term, and returns the top 10 results matching movies by that search term, it returns the name in bold, then a dash, finally showing the year it was made. I think APIs are amazing after seeing how easy they are to deploy, you can really look smart when you know nothing using these things. Overall a good day and I'm looking forward to coding more tommorow.
