@@ -130,3 +130,9 @@ HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js
 
 **Today's Progress**: 
 Finished up the intermediate express section of the class, learned how to use variables created by users using an input. Was hard to grasp at first but after doing it a couple times I have a better understanding. This is a pretty powerful tool that I want to play around with more. I also went ahead and did the next section on APIs. They are REALLY cool. I put together an app that takes user input of a search term, and returns the top 10 results matching movies by that search term, it returns the name in bold, then a dash, finally showing the year it was made. I think APIs are amazing after seeing how easy they are to deploy, you can really look smart when you know nothing using these things. Overall a good day and I'm looking forward to coding more tommorow.
+
+### Day 15: March 9, 2018
+**Time Spent: 4 hours**
+
+**Today's Progress**: 
+Today I really procrastinated getting started but ended solid. I followed the YelpCamp basics part of the course which was for the most part review using Node and Express to setup pages to display results, and to be able to add new ones via a POST request. I learned you can use the same name for a POST as you do with the GET. I then did a second section which was intro to databases. I manually installed MongoDB and got it running on my machine without C9 so I can use it in the future. Installing it was a pain in the ass, if you've trouble remember to kill the process initially. That's what worked for me. I learned the basics of mongo, creating new DBs, creating objects, finding them, changing them, destroying them, and finding all objects in the DB. I then installed mongoose so I can interface with the DB using javascript to write code that initializes objects, saves them, and changes them. I feel like I'm making good progress and I'm enjoying it.
