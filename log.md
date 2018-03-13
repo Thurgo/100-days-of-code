@@ -120,19 +120,31 @@ HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js
 
 **Today's Progress**: I reviewed the command line, didn't learn anything new but got more comfortable. After this I finished the nodeJS intro. Learned how to execute apps, learned how to import a library and go through the documentation to learn how to do things with it. Overall I got a lot done for the two hours spent.
 
-### Day 14: March 8, 2018
+### Day 15: March 8, 2018
 **Time Spent: 3 hours 30 minutes**
 
 **Today's Progress**: Today I learned the basics of express, and what it allows me to do with node. I learned about the package.json file, and how the --save appendment to npm install affects it. I went over route params and how I can create dynamic pages very simply. I then finally learned how to use a route param as a variable to display on a .ejs file which is a HTML file that can display javascript by using <%= %>.
 
-### Day 14: March 8, 2018
+### Day 16: March 9, 2018
 **Time Spent: 4 hours**
 
 **Today's Progress**: 
 Finished up the intermediate express section of the class, learned how to use variables created by users using an input. Was hard to grasp at first but after doing it a couple times I have a better understanding. This is a pretty powerful tool that I want to play around with more. I also went ahead and did the next section on APIs. They are REALLY cool. I put together an app that takes user input of a search term, and returns the top 10 results matching movies by that search term, it returns the name in bold, then a dash, finally showing the year it was made. I think APIs are amazing after seeing how easy they are to deploy, you can really look smart when you know nothing using these things. Overall a good day and I'm looking forward to coding more tommorow.
 
-### Day 15: March 9, 2018
+### Day 17: March 10, 2018
 **Time Spent: 4 hours**
 
 **Today's Progress**: 
 Today I really procrastinated getting started but ended solid. I followed the YelpCamp basics part of the course which was for the most part review using Node and Express to setup pages to display results, and to be able to add new ones via a POST request. I learned you can use the same name for a POST as you do with the GET. I then did a second section which was intro to databases. I manually installed MongoDB and got it running on my machine without C9 so I can use it in the future. Installing it was a pain in the ass, if you've trouble remember to kill the process initially. That's what worked for me. I learned the basics of mongo, creating new DBs, creating objects, finding them, changing them, destroying them, and finding all objects in the DB. I then installed mongoose so I can interface with the DB using javascript to write code that initializes objects, saves them, and changes them. I feel like I'm making good progress and I'm enjoying it.
+
+### Day 18: March 11, 2018
+**Time Spent: 30 minutes**
+
+**Today's Progress**: 
+Didn't want to code much on a sunday, reviewed some things, otherwise did nothing.
+
+### Day 19: March 12, 2018
+**Time Spent: 4 hours**
+
+**Today's Progress**: 
+Finished up the intermediate express section of the class, learned how to use variables created by users using an input. Was hard to grasp at first but after doing it a couple times I have a better understanding. This is a pretty powerful tool that I want to play around with more. I also went ahead and did the next section on APIs. They are REALLY cool. I put together an app that takes user input of a search term, and returns the top 10 results matching movies by that search term, it returns the name in bold, then a dash, finally showing the year it was made. I think APIs are amazing after seeing how easy they are to deploy, you can really look smart when you know nothing using these things. Overall a good day and I'm looking forward to coding more tommorow.
