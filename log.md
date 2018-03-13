@@ -144,7 +144,7 @@ Today I really procrastinated getting started but ended solid. I followed the Ye
 Didn't want to code much on a sunday, reviewed some things, otherwise did nothing.
 
 ### Day 19: March 12, 2018
-**Time Spent: 4 hours**
+**Time Spent: 5 hours**
 
 **Today's Progress**: 
 Today I did the RESTful routes section of the course, went over Index, new, create, show, edit, update, destroy. Learned how to use express-sanitizer to not allow users to input javascript into a form. Overall I am feeling uncomfortable for the first time in this course. I am going to spend tommorow making my own projects to practice RESTful routes because I am not completely understanding them at this point and I NEED to.
