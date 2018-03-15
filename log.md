@@ -159,7 +159,7 @@ Short coding session, finished the data association section, I'm feeling a bit d
 **Time Spent: 4 hours**
 
 **Today's Progress**: 
-Made my own app that was pretty much identical to the previous ones, hard to not follow that path when you're reviewing RESTful routes. It was hard at first but it helped me a lot to do it myself, and solve the problems on my own. I did look at my old code, but who doesn't. I feel a lot more comfortable doing the backend now after making this app. I still need to add the delete route, and polish the website tommorow.
+Made my own app that was pretty much identical to the previous ones, hard to not follow that path when you're reviewing RESTful routes. It was hard at first but it helped me a lot to do it myself, and solve the problems on my own. I did look at my old code, but who doesn't. I feel a lot more comfortable doing the backend now after making this app. I still need to add the edit, update and delete route, and polish the website tommorow.
 
 **!important 
 ```css
