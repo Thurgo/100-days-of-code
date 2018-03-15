@@ -148,3 +148,9 @@ Didn't want to code much on a sunday, reviewed some things, otherwise did nothin
 
 **Today's Progress**: 
 Today I did the RESTful routes section of the course, went over Index, new, create, show, edit, update, destroy. Learned how to use express-sanitizer to not allow users to input javascript into a form. Overall I am feeling uncomfortable for the first time in this course. I am going to spend tommorow making my own projects to practice RESTful routes because I am not completely understanding them at this point and I NEED to.
+
+### Day 20: March 13, 2018
+**Time Spent: 1 hours**
+
+**Today's Progress**: 
+Short coding session, finished the data association section, I'm feeling a bit down because I do not fully understand what I'm doing. Going to go over this again tommorow.
