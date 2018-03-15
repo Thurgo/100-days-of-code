@@ -154,3 +154,24 @@ Today I did the RESTful routes section of the course, went over Index, new, crea
 
 **Today's Progress**: 
 Short coding session, finished the data association section, I'm feeling a bit down because I do not fully understand what I'm doing. Going to go over this again tommorow.
+
+### Day 21: March 14, 2018
+**Time Spent: 4 hours**
+
+**Today's Progress**: 
+Made my own app that was pretty much identical to the previous ones, hard to not follow that path when you're reviewing RESTful routes. It was hard at first but it helped me a lot to do it myself, and solve the problems on my own. I did look at my old code, but who doesn't. I feel a lot more comfortable doing the backend now after making this app.
+
+**!important 
+```css
+.img-container {
+  width: 300px;
+  height:300px;
+  margin: 0 auto;
+}
+
+.show-image {
+  max-width: 100%;
+  max-height:100%;
+}
+```
+This is how you center a damn image, you also need to apply img-responsive and center-block. This was the most annoying thing that I've ever done in my life.
