@@ -175,3 +175,9 @@ Made my own app that was pretty much identical to the previous ones, hard to not
 }
 ```
 This is how you center a damn image, you also need to apply img-responsive and center-block. This was the most annoying thing that I've ever done in my life.
+
+### Day 22: March 15, 2018
+**Time Spent: 3 hours**
+
+**Today's Progress**: 
+Finished up the museum app. Added edit, update and delete routes. Had a funky bug with my update route that wouldn't update the description of certain posts. No idea how to fix it, or what the bug is, sometimes it works, sometimes it doesnt, the tide comes in, the tide goes out, you can't explain that.
