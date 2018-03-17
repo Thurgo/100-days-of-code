@@ -28,6 +28,7 @@ https://www.udemy.com/the-web-developer-bootcamp -This course is amazing for tea
 
 
 https://www.udemy.com/the-complete-nodejs-developer-course - This is the course I chose to use to learn the fundamentals of Node. I highly suggest using this course before the backend portion of colt's course. This course will teach you everything you need to know about the fundamentals and how they work, and what you can use. In the first 5 videos I felt a lot more comfortable working with Node.
+
 *================================================*
 
 ### Day 1: February 22, 2018
