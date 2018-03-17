@@ -22,6 +22,13 @@ HTML/CSS > JavaScript > jQuery > Node.js > Express > REST/JSON/XML api > Node.js
 
 *================================================*
 
+# Sources Used for Learning -
+
+https://www.udemy.com/the-web-developer-bootcamp -This course is amazing for teaching the fundamentals, however it gets really difficult to follow along once you reach the backend portions. I reccomend spending time with another resource to learn the fundamentals of node and express before continuing the course at that section.
+
+
+https://www.udemy.com/the-complete-nodejs-developer-course - This is the course I chose to use to learn the fundamentals of Node. I highly suggest using this course before the backend portion of colt's course. This course will teach you everything you need to know about the fundamentals and how they work, and what you can use. In the first 5 videos I felt a lot more comfortable working with Node.
+*================================================*
 
 ### Day 1: February 22, 2018
 **Time Spent: 5 hours**
@@ -181,3 +188,9 @@ This is how you center a damn image, you also need to apply img-responsive and c
 
 **Today's Progress**: 
 Finished up the museum app. Added edit, update and delete routes. Had a funky bug with my update route that wouldn't update the description of certain posts. No idea how to fix it, or what the bug is, sometimes it works, sometimes it doesnt, the tide comes in, the tide goes out, you can't explain that.
+
+### Day 22: March 16, 2018
+**Time Spent: 1 hour**
+
+**Today's Progress**: 
+Node is becoming too difficult to follow along with in Colt's course. Im going to set the course down for a bit and work on the Node specific course that I purchased a few weeks back. The course is https://www.udemy.com/the-complete-nodejs-developer-course and it is produced by Andrew Mead. I've learned so much from it in the short hour that I've spent on it, and hope that it continues to be a valuable source of information for me.
